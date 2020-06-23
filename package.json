@@ -1,6 +1,6 @@
 {
     "name": "@alexzhenwang/cra-template-redux-observable",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Alex Zhen Wang<wangzhennz@gmail.com>",
     "keywords": [
         "react",
