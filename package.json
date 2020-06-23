@@ -1,0 +1,22 @@
+{
+    "name": "@alexzhenwang/cra-template-redux-observable",
+    "version": "1.0.1",
+    "author": "Alex Zhen Wang<wangzhennz@gmail.com>",
+    "keywords": [
+        "react",
+        "create-react-app",
+        "template",
+        "redux-observable",
+        "typescript"
+    ],
+    "main": "template.json",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlexZhenWang/cra-template-redux-observable"
+    },
+    "license": "MIT",
+    "files": [
+        "template",
+        "template.json"
+    ]
+}
